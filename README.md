@@ -29,6 +29,19 @@ Use the above to answer the following:
 
 > Which model tracks the actual values better over time?
 The model predicting  based on price trackes actual values better than the FNG based one.
- 
+  * [Price](#Price-Based)
+  * [FNG](#FNG-Based) 
+
 
 > Which window size works best for the model?
+Window size of 10 works best 
+
+### Predictions
+
+#### Price Based
+![Price](images/price_based_plot.jpg)
+
+#### FNG Based
+![FNG](images/fng_based_plot.jpg) 
+
+
